@@ -1,0 +1,23 @@
+<div class="container">
+       <div class="sidebar">
+         <h2>Mode Avancé</h2>
+         <input type="text" placeholder="Entrez votre thème" />
+         <br />
+         <button class="button">Générer</button>
+         <br />
+         <button class="button">Version Premium</button>
+       </div>
+       <div class="main">
+         <h1>Paroles Générées</h1>
+         <p>Vos paroles apparaîtront ici...</p>
+       </div>
+       <div class="history">
+         <h2>Historique</h2>
+         <ul>
+           <li>Chanson 1</li>
+           <li>Chanson 2</li>
+         </ul>
+       </div>
+     </div>
+   </body>
+   </html>
